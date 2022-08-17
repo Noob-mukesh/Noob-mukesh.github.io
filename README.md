@@ -8,7 +8,7 @@
 
 <h1> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
-"""
+""""
 ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ
 
 # Aʙᴏᴜᴛ ᴍʀ sᴜᴋᴋᴜɴ 💫
@@ -42,7 +42,7 @@
 
 ↺Dᴇᴛᴀɪʟs Uᴘᴅᴀᴛᴇ Iɴ Pʀᴏɢʀᴇss...
 
-"""
+""""
 
         
 <h1> <img src = "https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
