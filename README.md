@@ -1,5 +1,3 @@
-
-
 <h1> <img src="https://te.legra.ph/file/f708eb8020237a65e837b.png" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
@@ -8,15 +6,13 @@
 
 [<img src="https://te.legra.ph/file/dd55158b01876db42d3d9.jpg"/>](https://github.com/Noob-Mukesh)
 
-<h1> <img src="" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
-```
- ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ
+"""
+ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ
 
 # Aʙᴏᴜᴛ ᴍʀ sᴜᴋᴋᴜɴ 💫
-
-
-┗☉ Nᴀᴍᴇ    💥            »  ᴍᴜᴋᴇsʜ 
+┗☉ Nᴀᴍᴇ    💥  »  ᴍᴜᴋᴇsʜ 
 
 ┗☉ TG ᴜsᴇʀɴᴀᴍᴇ ⚡️» @iTz_mSt_bOi
  
@@ -24,9 +20,9 @@
 
 ┗☉ Lᴏᴄᴀᴛɪᴏɴ 🌏     » ʙɪʜᴀʀ, ɪɴᴅɪᴀ
 
-┗☉ Aɢᴇ         ⚡️           » ᴄᴏᴜɴᴛɪɴɢ...17
+┗☉ Aɢᴇ        » ᴄᴏᴜɴᴛɪɴɢ...17
 
-┗☉ Bɪʀᴛʜ Dᴀʏ 🎂       » 10 ᴀᴜɢᴜsᴛ
+┗☉ Bɪʀᴛʜ Dᴀʏ 🎂 » 10 ᴀᴜɢᴜsᴛ
 
 ┗☉ 🔗ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ  🔥» [ɪᴛᴢ-ᴍsᴛ -ʙᴏʏ](t.me/itz_mst_boi)
  
@@ -46,7 +42,7 @@
 
 ↺Dᴇᴛᴀɪʟs Uᴘᴅᴀᴛᴇ Iɴ Pʀᴏɢʀᴇss...
 
-'''
+"""
 
         
 <h1> <img src = "https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
