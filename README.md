@@ -10,34 +10,44 @@
 
 <h1> <img src="" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
-```python3
-class ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ():
-    def __init__(self):
-        self.name = ['ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ]
-        self.country = ['India']
-        self.language = ['हिंदी', 'English']
-    def programming_languages(self):
-        return [
-            'Python'
-        ]
-    def markup_languages(self):
-        return [
-            'HTML'
-        ]
-    def developer_tools(self):
-        return [
-            'GitHub', '','Heroku',
-            'MongoDB''
-        ]
-    def operating_system(self):
-        return [
-            ''Android'
-        ]
-    def windows_os(self):
-        return [
-            'Windows 11', 'Windows 10', 'Windows 8.1', 'Windows 7', 'Windows XP'
-        ]
- ```
+```
+ ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ
+Aʙᴏᴜᴛ ᴍʀ sᴜᴋᴋᴜɴ 💫
+
+
+┗☉ Nᴀᴍᴇ    💥            »  ᴍᴜᴋᴇsʜ 
+
+┗☉ TG ᴜsᴇʀɴᴀᴍᴇ ⚡️» @iTz_mSt_bOi
+ 
+┗☉ Nɪᴋᴇ ɴᴀᴍᴇ   ✨   » sᴜᴋᴋᴜɴ, ᴘᴀɢᴀʟ
+
+┗☉ Lᴏᴄᴀᴛɪᴏɴ 🌏     » ʙɪʜᴀʀ, ɪɴᴅɪᴀ
+
+┗☉ Aɢᴇ         ⚡️           » ᴄᴏᴜɴᴛɪɴɢ...17
+
+┗☉ Bɪʀᴛʜ Dᴀʏ 🎂       » 10 ᴀᴜɢᴜsᴛ
+
+┗☉ 🔗ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ  🔥» [ɪᴛᴢ-ᴍsᴛ -ʙᴏʏ](t.me/itz_mst_boi)
+ 
+┗☉  ᴄʟᴀss ⚡️» 11 ᴛʜ ᴘᴄᴍ 
+
+┗☉  Aᴍʙɪᴛɪᴏɴ   » Bᴇ ᴀ...404: ᴇʀʀᴏʀ ᴀᴍʙɪᴛɪᴏɴ ɴᴏᴛ ғᴏᴜɴᴅ🥲 
+
+┗☉ Wʜᴀᴛ ᴀᴍ ɪ ɢᴏᴏᴅ ᴀᴛ » 404: ᴇʀʀᴏʀ ɴᴏᴛʜɪɴɢ ғᴏᴜɴᴅ⚠️
+
+┗☉ ʟᴀɴɢᴜᴀɢᴇ   » ʜɪɴᴅɪ , ᴇɴɢʟɪsʜ 
+
+┗☉ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇ  » ʜᴛᴍʟ , ᴘʏᴛʜᴏɴ 
+
+┗☉ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴛᴏᴏʟs  » ɢɪᴛʜᴜʙ , ʜᴇʀᴜᴋᴏ , ᴍᴏɴɢᴏᴅʙ
+
+┗☉ ᴏᴘᴇʀᴀᴛɪɴɢ sʏsᴛᴇᴍ » ᴀɴᴅʀᴏɪᴅ
+
+↺Dᴇᴛᴀɪʟs Uᴘᴅᴀᴛᴇ Iɴ Pʀᴏɢʀᴇss...
+
+
+
+        
 <h1> <img src = "https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Noob-Mukesh&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Noob-Mukesh)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noob-Mukesh&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/Noob-Mukesh)
