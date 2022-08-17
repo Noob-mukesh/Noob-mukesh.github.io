@@ -51,7 +51,7 @@
 
 [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/hr.gif"/>](https://github.com/Noob-Mukesh)
 
-<h1> <video src="https://te.legra.ph/file/e5c0cd3fa9436e6f80755.mp4" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/itz_mst_boi) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/Noob-Mukesh) 
 
