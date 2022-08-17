@@ -1,9 +1,9 @@
 
 
-<h1> <img src="https://github.com/Noob-mukesh/Noob-mukesh/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ </h1>
+<h1> <img https://te.legra.ph/file/dd55158b01876db42d3d9.jpg" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Noob-Mukesh/count.svg" />
+ -->    <img align="middle" src="https://te.legra.ph/file/f708eb8020237a65e837b.png" />
 </p>
 
 [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/hr.gif"/>](https://github.com/Noob-Mukesh)
