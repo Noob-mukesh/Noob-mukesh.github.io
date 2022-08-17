@@ -1,6 +1,6 @@
 
 
-<h1> <img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ </h1>
+<h1> <img src="https://github.com/Noob-mukesh/Noob-mukesh/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/Noob-Mukesh/count.svg" />
