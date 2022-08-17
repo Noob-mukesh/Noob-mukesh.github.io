@@ -8,7 +8,7 @@
 
 <h1> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
-""""
+
 ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ
 
 # Aʙᴏᴜᴛ ᴍʀ sᴜᴋᴋᴜɴ 💫
@@ -42,7 +42,7 @@
 
 ↺Dᴇᴛᴀɪʟs Uᴘᴅᴀᴛᴇ Iɴ Pʀᴏɢʀᴇss...
 
-""""
+
 
         
 <h1> <img src = "https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
@@ -51,9 +51,9 @@
 
 [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/hr.gif"/>](https://github.com/Noob-Mukesh)
 
-<h1> <img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="https://te.legra.ph/file/e5c0cd3fa9436e6f80755.mp4" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
- [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/telegram_icon.png" width="60px">](https://t.me/itz_mst_boi) [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/github_icon.png" width="60px">](https://github.com/Noob-Mukesh) [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/discord_logo.png" width="60px">](https://discordapp.com/users/)
+ [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/itz_mst_boi) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/Noob-Mukesh) 
 
 [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/hr.gif"/>](https://github.com/Noob-Mukesh)
 
