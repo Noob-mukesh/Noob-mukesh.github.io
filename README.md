@@ -6,9 +6,9 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/Noob-Mukesh/count.svg" />
 </p>
 
-[<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/hr.gif"/>](https://github.com/Noob-Mukesh)
+[<img src="https://te.legra.ph/file/dd55158b01876db42d3d9.jpg"/>](https://github.com/Noob-Mukesh)
 
-<h1> <img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/mukesh.mp4" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ():
