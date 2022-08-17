@@ -46,9 +46,8 @@ class ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ():
 
 <h1> <img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
- [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/telegram_icon.png" width="60px">](https://t.me/anonymous_was_bot) [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/github_icon.png" width="60px">](https://github.com/Noob-Mukesh) [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/discord_logo.png" width="60px">](https://discordapp.com/users/)
+ [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/telegram_icon.png" width="60px">](https://t.me/itz_mst_boi) [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/github_icon.png" width="60px">](https://github.com/Noob-Mukesh) [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/discord_logo.png" width="60px">](https://discordapp.com/users/)
 
 [<img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/hr.gif"/>](https://github.com/Noob-Mukesh)
 
-<h1> <img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
